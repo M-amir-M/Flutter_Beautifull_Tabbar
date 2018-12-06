@@ -1,6 +1,9 @@
-# custom_tabbar
+# Custom Flutter Tabbar
+## Screenshots
+### This flutter project is a beautiful custom tabbar with beautiful animations.
+<br>
+<img height="480px" src="Screenshot.png"><img height="480px" src="screenshot.gif">
 
-A new Flutter project.
 
 ## Getting Started
 
